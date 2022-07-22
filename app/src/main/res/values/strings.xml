@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string name="b_lingkaran">hitung luas dan keliling lingkaran</string>
+    <string name="b_hubungan">menentukan hubungan 2 bilangan</string>
+    <string name="prosesLingkaran">Hitung</string>
+    <string name="hint_jari">Masukan jari-jari</string>
+    <string name="teks_luas">luas lingkaran adalah %1$f</string>
+    <string name="teks_keliling">keliling lingkaran adalah %1$f</string>
+</resources>
