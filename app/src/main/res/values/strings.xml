@@ -6,4 +6,10 @@
     <string name="hint_jari">Masukan jari-jari</string>
     <string name="teks_luas">luas lingkaran adalah %1$f</string>
     <string name="teks_keliling">keliling lingkaran adalah %1$f</string>
+    <string name="hint_nilai1">Masukkan nilai 1</string>
+    <string name="hint_nilai2">Masukkan nilai 2</string>
+    <string name="proses_hub">Cek</string>
+    <string name="teks_sama">nilai %1$d dan nilai %2$d bersifat sama</string>
+    <string name="teks_besar">nilai %1$d lebih besar dari nilai %2$d </string>
+    <string name="teks_kecil">nilai %1$d lebih kecil dari nilai %2$d </string>
 </resources>
